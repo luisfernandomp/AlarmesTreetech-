@@ -8,6 +8,7 @@ namespace Alarme.Comum.Enum
     {
         Tensao = 1,
         Corrente = 2,
-        Oleo = 3
+        Oleo = 3,
+        
     }
 }
